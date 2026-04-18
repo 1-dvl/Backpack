@@ -15,6 +15,9 @@ Etapa 1:
 > - Perfis de usuários
 > - Histórias de Usuários
 > - Requisitos do Projeto (Requisitos funcionais e Requisitos não funcionais)
+> - **Apresentação em PowerPoint** [HypeHub.pptx](https://github.com/user-attachments/files/26847884/Apresentacao.HypeHub.pptx) 
+> - **Apresentação em PDF** [HypeHub.pdf](https://github.com/user-attachments/files/26847883/Apresentacao.HypeHub.pdf)
+
 
 Etapa 5: 
 
@@ -28,12 +31,6 @@ Etapa 5:
 > - Solução Implementada (funcionalidades de software)
 > - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado)]
 
-[Adicione os pdfs das apresentações]
-
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
 
 ## Vídeo de apresentação
 
@@ -45,6 +42,7 @@ Etapa 5:
 > - formato mp4]
 
 [Adicione vídeo de apresentação.]
+
 
 ## Hospedagem
 
