@@ -17,10 +17,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Bernardo Henrique Avelino, Artur Leandro de Oliveira Santos, Lucas Ernesto Pedro Araújo, Kristian Arcanjo de Oliveira, Deivilan Ribeiro Benedito, William Fernandes Soares, Felipe Keslley Batista de Oliveira
 - Equipe de Design: Bernardo Henrique Avelino, Artur Leandro de Oliveira Santos e Lucas Ernesto Pedro Araújo
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
@@ -34,11 +30,6 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
 - Done: Esta coluna representa as Tarefas concluídas, considerando que as Tarefas passaram pelos testes, foram aprimoradas pelos feedbacks obtidos nas revisões/testes e estão prontas para ser entregues.
 
 [Adicione uma imagem do Kanban do projeto]
-
-> **Links Úteis**:
-> - [Planejamento de projetos para desenvolvedores](https://github.com/features/project-management/)
-> - [Sobre Projects](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Ferramentas de gerenciamento do Projects no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
 
 ### Etiquetas
