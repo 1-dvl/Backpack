@@ -57,10 +57,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Repositório de código fonte         | GitHub                             |(https://github.com/1-dvl/Backpack/tree/core-desk/GitHub/Projeto%20HypeHub/pmv-ads-2026-1-e1-proj-web-t10-hypehub/codigo-fonte)|
+| Documentos do projeto               | GitHub                             |(https://github.com/1-dvl/Backpack/tree/core-desk/GitHub/Projeto%20HypeHub/pmv-ads-2026-1-e1-proj-web-t10-hypehub/documentos)|
 | Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Gerenciamento do Projeto            | GitHub Projects                    |(https://github.com/1-dvl/Backpack/projects?query=is%3Aopen)|
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
